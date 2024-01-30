@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
-<style>
-table, th, td {
-  border:none;
-}
-</style>
+
 <body>
 
 <table style="width:100%">
