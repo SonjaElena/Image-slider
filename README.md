@@ -3,7 +3,7 @@
 
 <body>
 
-<h1>Slide show - Octopods and some biological fun facts</h1>
+<h3>Slide show - Octopus, Squid and some biological fun facts</h3>
 
 <table style="width:100%">
   <tr>
